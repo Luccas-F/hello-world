@@ -1,5 +1,4 @@
 # hello-world
-My first repository at GitHub
 
 Hi Mere Mortals!
 
